@@ -1,0 +1,35 @@
+---
+source: tests/metrics_opts_snapshot.rs
+assertion_line: 71
+expression: rendered
+---
+ Settings > Metrics Options                                                               
+chars  [ braille ] [ block ] [ line ]                                                     
+                                                                                          
+fill  [ stroke ] [ columns ] [ area ]                                                     
+                                                                                          
+colors  [ gradient ] [ flow ] [ solid ]                                                   
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+[Save]  [Cancel]
