@@ -1,0 +1,15 @@
+---
+source: tests/graph_snapshots.rs
+assertion_line: 120
+expression: s_line
+---
+                    
+ ▐▌ ▗▖     ▗▖       
+ ▐▌ ▐▌▗▖   ▐▌       
+ ▐▌ ▐▌▐▌   ▐▌       
+ ▐▜ ▐▜▟▌   ▐▙       
+ ▛▐ ▛▐▌▜   ▛▐ ▟▙    
+ ▌▐ ▌▐▌▐   ▌▐▟▘▐▄  ▗
+ ▌▝▌▌  ▐▄▖ ▌▐▌  ▝▙▗▛
+ ▌ ▜▌    ▜▄▌     ▝▀ 
+▀▘ ▝▘
