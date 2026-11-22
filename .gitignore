@@ -1,0 +1,6 @@
+/target
+**/*.snap.new
+frames/
+*.log
+.env
+__pycache__/
