@@ -1,0 +1,206 @@
+[
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 0.0,
+    "prompt_ts": 0.0,
+    "cache_pct": 20.0,
+    "kv": 6.591796875,
+    "active": false,
+    "phase": null
+   }
+  ],
+  "curve": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 0.0,
+    "prompt_ts": 8500.0,
+    "cache_pct": 6.206896551724138,
+    "kv": 21.240234375,
+    "active": true,
+    "phase": "prompt"
+   }
+  ],
+  "curve": [
+   0.0,
+   8500.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 0.0,
+    "prompt_ts": 3400.0,
+    "cache_pct": 3.13953488372093,
+    "kv": 41.9921875,
+    "active": true,
+    "phase": "prompt"
+   }
+  ],
+  "curve": [
+   0.0,
+   6205.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 80.0,
+    "prompt_ts": 4200.0,
+    "cache_pct": 3.13953488372093,
+    "kv": 41.9921875,
+    "active": true,
+    "phase": "decode"
+   }
+  ],
+  "curve": [
+   80.0,
+   0.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 80.0,
+    "prompt_ts": 4200.0,
+    "cache_pct": 3.13953488372093,
+    "kv": 41.9921875,
+    "active": true,
+    "phase": "decode"
+   }
+  ],
+  "curve": [
+   80.0,
+   0.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 100.0,
+    "prompt_ts": 4200.0,
+    "cache_pct": 3.13953488372093,
+    "kv": 41.9921875,
+    "active": true,
+    "phase": "decode"
+   }
+  ],
+  "curve": [
+   62.0,
+   0.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 66.66666666666667,
+    "prompt_ts": 4200.0,
+    "cache_pct": 3.13953488372093,
+    "kv": 41.9921875,
+    "active": false,
+    "phase": "idle"
+   }
+  ],
+  "curve": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 66.66666666666667,
+    "prompt_ts": 4200.0,
+    "cache_pct": 3.13953488372093,
+    "kv": 41.9921875,
+    "active": false,
+    "phase": "idle"
+   }
+  ],
+  "curve": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 0.0,
+    "prompt_ts": 500.0,
+    "cache_pct": 2.0849420849420848,
+    "kv": 61.5234375,
+    "active": true,
+    "phase": "prompt"
+   }
+  ],
+  "curve": [
+   0.0,
+   1600.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 80.0,
+    "prompt_ts": 600.0,
+    "cache_pct": 1.592920353982301,
+    "kv": 81.0546875,
+    "active": true,
+    "phase": "active"
+   }
+  ],
+  "curve": [
+   40.0,
+   1600.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 80.0,
+    "prompt_ts": 4116.666666666666,
+    "cache_pct": null,
+    "kv": 0.0,
+    "active": false,
+    "phase": null
+   }
+  ],
+  "curve": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "rows": [
+   {
+    "model": "golden-lane",
+    "gen_ts": 80.0,
+    "prompt_ts": 4116.666666666666,
+    "cache_pct": 1.592920353982301,
+    "kv": 81.0546875,
+    "active": false,
+    "phase": "idle"
+   }
+  ],
+  "curve": [
+   0.0,
+   0.0
+  ]
+ }
+]
